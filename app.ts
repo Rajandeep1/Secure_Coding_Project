@@ -4,7 +4,7 @@ import { calculatePortfolioPerformance,
     findLargestHolding,
     assetAllocationPercentage,
     Asset,
-    
+    //scan
  } from "./portfolio/portfolioPerformance";
 // initialize Express application
 const app: Express = express();
